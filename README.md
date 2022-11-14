@@ -5,6 +5,7 @@ Full Stack Web Developer.
 - 🔭 I’m currently working on develop personal projects focused on front end and UI.
 - 🌱 I’m currently learning NodeJS, ReactJS, Redux, JavaScript, unit testing.
 - 👯 I’m looking to collaborate on backends projects.
+- 😄 My order profile (i´m working on it) [enlace en línea]([http://www.limni.net](https://github.com/jgxdev))
 
 <!--
 **JoseGermanx/JoseGermanx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
