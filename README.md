@@ -1,5 +1,5 @@
 ### Hi there 👋
-Welcome to my profile. Ny name name is José Germán Martínez. 
+Welcome to my profile. My name name is José Germán Martínez. 
 Full Stack Web Developer.
 
 - 🔭 I’m currently working on develop personal projects focused on front end and UI.
