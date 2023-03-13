@@ -8,3 +8,13 @@ Full Stack Web Developer.
 - 👯 I’m looking to collaborate on backends projects.
 - 😄 My order profile (i´m working on it) [Link](https://github.com/jgxdev).
 - ⚡ Contact me on Whastapp: [Link](https://wa.link/mhqy21).
+
+**Github Stats:**
+
+<p align="center">
+
+  <img src="https://github-readme-stats.vercel.app/api?username=josegermanx&hide=stars&show_icons=true&theme=ligth&line_height=32">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=josegermanx&count_private=true&theme=ligth">
+
+</p>
+
