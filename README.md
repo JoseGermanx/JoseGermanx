@@ -20,5 +20,5 @@ Full Stack Web Developer.
 </p>
 
 **My Stats:**
-[![trophy](https://github-profile-trophy.vercel.app/?josegermanx=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=josegermanx)](https://github.com/ryo-ma/github-profile-trophy)
 
