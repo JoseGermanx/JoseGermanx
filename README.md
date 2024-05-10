@@ -1,14 +1,14 @@
 ### Hi, I am José Germán Martínez, welcome to my code space 👋
 A Full Stack Web Developer and Process Engineer
-- ⚡ My website: [Link](https://jgxdev.com)
+- ⚡ My website: [jgxdev.com](https://jgxdev.com)
 
 ## About Me
 
 - 🔭 I’m currently working in software development thesis consulting, as a javascript programming instructor and develop personal projects focused on Back End, NodeJs, Java and Python.
 - 🌱 I’m currently learning TypeScript, Angular, React Native and DevOps.
 - 👯 I’m looking to collaborate on backends projects.
-- 😄 My order github profile (i´m working on it) [Link](https://github.com/jgxdev).
-- ⚡ Contact me on Whastapp: [Link](https://wa.link/mhqy21).
+- 😄 My order github profile (i´m working on it) [github.com/jgxdev](https://github.com/jgxdev).
+- ⚡ Contact me on Whastapp: [Whastapp](https://wa.link/mhqy21).
 
 **Github Stats:**
 
