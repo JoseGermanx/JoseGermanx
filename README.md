@@ -1,6 +1,6 @@
 ### Hi, I am José Germán Martínez, welcome to my code space 👋
 A Full Stack Web Developer and Process Engineer
-⚡ My website: [Link](https://jgxdev.com)
+- ⚡ My website: [Link](https://jgxdev.com)
 
 ## About Me
 
