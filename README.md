@@ -10,13 +10,15 @@ A Full Stack Web Developer and Process Engineer
 - 😄 My other github profile (i´m working on it) [github.com/jgxdev](https://github.com/jgxdev).
 - ⚡ Contact me on Whastapp: [Whastapp](https://wa.link/mhqy21).
 
-**Github Stats:**
+##  Github Stats:
 
 <p align="center">
-
   <img src="https://github-readme-stats.vercel.app/api?username=josegermanx&hide=stars&show_icons=true&theme=ligth&line_height=32">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=josegermanx&count_private=true&theme=ligth">
+</p>
 
+##  Preferred languages:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=josegermanx&count_private=true&theme=ligth">
 </p>
 
 **My Stats:**
