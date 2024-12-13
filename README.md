@@ -9,7 +9,6 @@ A Full Stack Web Developer and Process Engineer
 - 🌱 I have experience with TypeScript and Angular.
 - 👯 I’m looking to collaborate on backends projects.
 - 😄 My other github profile (i´m working on it) [github.com/jgxdev](https://github.com/jgxdev).
-- ⚡ Contact me on Whastapp: [Whastapp](https://wa.link/mhqy21).
 
 ##  Github Stats:
 
