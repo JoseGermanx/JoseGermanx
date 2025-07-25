@@ -7,7 +7,7 @@ A Full Stack Web Developer and Process Engineer
 
 - 🔭 I’m currently working in software development thesis consulting, as a javascript programming instructor and develop projects for clients focused on Web development, Back End with NodeJs.
 - 🌱 I have experience with TypeScript and Angular.
-- 👯 I’m looking to collaborate on backends projects.
+- 👯 I’m looking to collaborate on backends, mcp and AI projects.
 - 😄 My other github profile (i´m working on it) [github.com/jgxdev](https://github.com/jgxdev).
 
 ##  Github Stats:
