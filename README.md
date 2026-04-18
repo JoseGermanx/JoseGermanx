@@ -10,17 +10,6 @@ A Full Stack Web Developer and Process Engineer
 - 👯 I’m looking to collaborate on backends, mcp and AI projects.
 - 😄 My other github profile (i´m working on it) [github.com/jgxdev](https://github.com/jgxdev).
 
-##  Github Stats:
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=josegermanx&hide=stars&show_icons=true&theme=ligth&line_height=32">
-</p>
-
-##  Preferred languages:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=josegermanx&count_private=true&theme=ligth">
-</p>
-
 **Google Dev Profile:**
 [![trophy]([https://g.dev/jgxdev])](https://g.dev/jgxdev)
 
