@@ -20,7 +20,7 @@
 ### Hi, I am José Germán Martínez, welcome to my code space 👋
 A Full Stack Web Developer and Process Engineer
 - ⚡ My website: [jgxdev.com](https://jgxdev.com)
-[MERN Developer](https://res.cloudinary.com/dnsryxz3a/image/upload/v1776485110/fullstack-mern-developer_budiwk.png)
+- ![MERN Developer](https://res.cloudinary.com/dnsryxz3a/image/upload/v1776485110/fullstack-mern-developer_budiwk.png)
 
 <a href="https://app.daily.dev/jgxdev"><img src="https://api.daily.dev/devcards/v2/PsIBCeMLwqPz5EVHC5AO8.png?type=wide&r=dr5" width="652" alt="Jose German Martinez's Dev Card"/></a>
 ## About Me
