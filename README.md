@@ -11,5 +11,5 @@ A Full Stack Web Developer and Process Engineer
 - 😄 My other github profile (i´m working on it) [github.com/jgxdev](https://github.com/jgxdev).
 
 **Google Dev Profile:**
-[[Dev](https://g.dev/jgxdev)
+[Dev](https://g.dev/jgxdev)
 
