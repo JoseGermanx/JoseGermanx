@@ -21,7 +21,7 @@
 A Full Stack Web Developer and Process Engineer
 - ⚡ My website: [jgxdev.com](https://jgxdev.com)
 - ![MERN Developer](https://res.cloudinary.com/dnsryxz3a/image/upload/v1776485110/fullstack-mern-developer_budiwk.png)
-- ![Google Cloud Run](https://res.cloudinary.com/dnsryxz3a/image/upload/v1776485337/develop-serverless-applications-on-cloud-run-skill-_pga3ky.png)
+- ![Google Cloud Run](https://res.cloudinary.com/dnsryxz3a/image/upload/v1776485422/develop-serverless-applications-on-cloud-run-skill-_1_enr6v6.png)
 
 <a href="https://app.daily.dev/jgxdev"><img src="https://api.daily.dev/devcards/v2/PsIBCeMLwqPz5EVHC5AO8.png?type=wide&r=dr5" width="652" alt="Jose German Martinez's Dev Card"/></a>
 ## About Me
