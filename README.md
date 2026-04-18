@@ -21,6 +21,6 @@ A Full Stack Web Developer and Process Engineer
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=josegermanx&count_private=true&theme=ligth">
 </p>
 
-**My Stats:**
-[![trophy](https://github-profile-trophy.vercel.app/?username=josegermanx)](https://github.com/ryo-ma/github-profile-trophy)
+**Google Dev Profile:**
+[![trophy]([https://g.dev/jgxdev])](https://g.dev/jgxdev)
 
