@@ -29,10 +29,10 @@ A Full Stack Web Developer and Process Engineer
 - 👯 I’m looking to collaborate on backends, mcp and AI projects.
 - 😄 My other github profile (i´m working on it) [github.com/jgxdev](https://github.com/jgxdev).
 
-## **Google Dev Profile:**
+**Google Dev Profile:**
 ## [Dev](https://g.dev/jgxdev)
 
-## **Asistente de estudios de javascript**
+**Asistente de estudios de javascript**
 Implementado con Gemini
 ## [Asistente de IA JavaScript](https://asistente-js.betacode.cl/)
 
