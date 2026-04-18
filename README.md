@@ -20,7 +20,7 @@
 ### Hi, I am José Germán Martínez, welcome to my code space 👋
 A Full Stack Web Developer and Process Engineer
 - ⚡ My website: [jgxdev.com](https://jgxdev.com)
-<div><div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="dc2e7f4c-fb6e-4cab-87db-52e74c5b4808" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script></div>
+[MERN Developer](https://res.cloudinary.com/dnsryxz3a/image/upload/v1776485110/fullstack-mern-developer_budiwk.png)
 
 <a href="https://app.daily.dev/jgxdev"><img src="https://api.daily.dev/devcards/v2/PsIBCeMLwqPz5EVHC5AO8.png?type=wide&r=dr5" width="652" alt="Jose German Martinez's Dev Card"/></a>
 ## About Me
