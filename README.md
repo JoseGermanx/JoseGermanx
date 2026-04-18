@@ -32,3 +32,7 @@ A Full Stack Web Developer and Process Engineer
 **Google Dev Profile:**
 [Dev](https://g.dev/jgxdev)
 
+**Asistente de estudios de javascript**
+Implementado con Gemini
+[Asistente de IA JavaScript](https://asistente-js.betacode.cl/)
+
